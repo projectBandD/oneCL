@@ -1,0 +1,18 @@
+button{
+    background-color: "pink";
+
+}
+
+.login-wrapper{
+/* background-color: aquamarine; */
+}
+
+ label {
+    margin-top: 10px;
+    }
+
+
+    input{
+      border-radius: 0px;
+      border-width: 0.5px; 
+    }
